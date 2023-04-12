@@ -9,6 +9,8 @@ int main()
     int resultado = 0;
     float resultado_div = 0;
 
+	// mudança teste
+
     printf("----------CALCULADORA----------\n\n");
     printf("Entre com o numero da operacao desejada\n\n");
     printf("1-Soma\n");
